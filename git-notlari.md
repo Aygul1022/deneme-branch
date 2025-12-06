@@ -91,6 +91,16 @@ Repository = Directory that we add git commits of projects
 18. git restore <FİLENAME>  
 //staging alanındaki dosyayı geri almak için
 
+19. git remote -v
+//Shows current remotes
 
+20. git remote set-url origin https://github.com/Aygul1022/NotePad.git
+//Changing current remote origin
+
+21. git remote remove origin
+//Deleting missadded origin
+
+22. git remote rename origin old-origin
+//Changing the name of origin
 
 
